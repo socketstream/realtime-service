@@ -5,6 +5,7 @@
   "author": "Owen Barnes <owen@socketstream.org>",
   "engines": { "node": ">= 0.8.0" },
   "dependencies": {
+    "realtime-service-client": "~0.0.1"
   },
   "devDependencies": {
     "mocha": "1.8.x",
